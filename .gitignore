@@ -1,6 +1,6 @@
 # data folder
-parser/data
-parser/category
+parser/data/
+parser/category/
 parser/chatdata.csv
 
 # Byte-compiled / optimized / DLL files
